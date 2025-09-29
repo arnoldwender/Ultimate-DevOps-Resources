@@ -85,6 +85,7 @@ Stay informed with these DevOps blogs:
 
 ## Github Repositories for DevOps
 
+- [Ultimate Kubernetes Resources](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources)
 - [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Awesome cloudnative trainings](https://github.com/joseadanof/awesome-cloudnative-trainings)
 - [Devops exercises](https://github.com/bregman-arie/devops-exercises)
