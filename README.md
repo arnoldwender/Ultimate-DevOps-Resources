@@ -54,6 +54,7 @@ Enhance your DevOps knowledge with these YouTube channels:
 - [Rawkode Academy](https://www.youtube.com/@RawkodeAcademy)
 - [Technical Guftgu](https://www.youtube.com/@TechnicalGuftgu)
 - [Abhishek.Veeramalla](https://www.youtube.com/@AbhishekVeeramalla)
+- [Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX)
 
 ## Resources to Learn DevOps
 
