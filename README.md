@@ -67,6 +67,7 @@ Enhance your DevOps knowledge with these YouTube channels:
   - [DevOps with AWS by Amazon Web Services](https://www.coursera.org/specializations/aws-devops)
   - [DevOps with Azure by Microsoft Azure](https://azure.microsoft.com/en-in/products/devops) 
   - [DevOps with Google Cloud Platform by Google Cloud Platform](https://cloud.google.com/devops)
+  - [DevOps Courses by Udemy](https://www.udemy.com/topic/devops/)
 
 ### Books to Learn DevOps 
 
