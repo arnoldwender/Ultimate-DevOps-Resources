@@ -23,17 +23,17 @@ Before you contribute, please review our [CONTRIBUTING](https://github.com/Dhanu
 - [What is DevOps](#what-is-devops)
 
 ### ⚙️ Tools and Technologies
-- [DevOps Tools](#devops-tools)
+- [DevOps Tools](#DevOps-Tools)
 
 ### 🎓 Learning Resources
 - [Free YouTube Resources](#free-youtube-resources)
-- [Resources to Learn DevOps](#resources-to-learn-devops)
+- [Resources to Learn DevOps](#Resources-to-Learn-DevOps)
 
 ### 💾 Open Source Repositories
-- [GitHub Repositories for DevOps](#github-repositories-for-devops)
+- [GitHub Repositories for DevOps](#Github-Repositories-for-DevOps)
 
 ### 🗺️ Roadmap and Career Path
-- [RoadMap To Learn DevOps](#roadmap-to-learn-devops)
+- [RoadMap To Learn DevOps](#RoadMap-To-Learn-Devops)
 
 ### 🧩 Reference
 - [Conclusion](#conclusion)
