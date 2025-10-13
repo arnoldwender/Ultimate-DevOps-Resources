@@ -16,15 +16,28 @@ Welcome to the Ultimate DevOps Resources repository, a curated collection of val
 
 Before you contribute, please review our [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-DevOps-Resources/blob/main/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-DevOps-Resources/blob/main/CODE-OF-CONDUCT.md) guidelines to ensure a positive and collaborative experience.
 
-## Table of Contents
+## 📘 Table of Contents
 
+### 🧭 Introduction
 - [Ultimate-DevOps-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-DevOps-Resources)
-  - [What is DevOps](#what-is-devops)
-  - [DevOps Tools](#DevOps-Tools)
-  - [Free YouTube resources](#free-youtube-resources)
-  - [Resources to Learn DevOps](#Resources-to-Learn-DevOps)
-  - [Github Repositories for DevOps](#Github-Repositories-for-DevOps)
-  - [RoadMap To Learn Devops](#RoadMap-To-Learn-Devops)
+- [What is DevOps](#what-is-devops)
+
+### ⚙️ Tools and Technologies
+- [DevOps Tools](#devops-tools)
+
+### 🎓 Learning Resources
+- [Free YouTube Resources](#free-youtube-resources)
+- [Resources to Learn DevOps](#resources-to-learn-devops)
+
+### 💾 Open Source Repositories
+- [GitHub Repositories for DevOps](#github-repositories-for-devops)
+
+### 🗺️ Roadmap and Career Path
+- [RoadMap To Learn DevOps](#roadmap-to-learn-devops)
+
+### 🧩 Reference
+- [Conclusion](#conclusion)
+
 
 ## What is DevOps
 
