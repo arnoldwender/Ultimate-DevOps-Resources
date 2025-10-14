@@ -26,7 +26,7 @@ Before you contribute, please review our [CONTRIBUTING](https://github.com/Dhanu
 - [DevOps Tools](#DevOps-Tools)
 
 ### 🎓 Learning Resources
-- [Free YouTube Resources](#free-youtube-resources)
+- [Free YouTube Resources](#Free-Youtube-Resources)
 - [Resources to Learn DevOps](#Resources-to-Learn-DevOps)
 
 ### 💾 Open Source Repositories
