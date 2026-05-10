@@ -69,6 +69,7 @@ Enhance your DevOps knowledge with these YouTube channels:
 - [Abhishek.Veeramalla](https://www.youtube.com/@AbhishekVeeramalla)
 - [The Curious Guy](https://www.youtube.com/@dhanushnehru)
 - [Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX)
+- [M Prashant](https://www.youtube.com/@MPrashant)
 
 ## Resources to Learn DevOps
 
